@@ -1,155 +1,6 @@
 {
   "pokemon": [
     {
-      "height": 10,
-      "weight": 130,
-      "id": 2,
-      "name": "ivysaur",
-      "abilities": [
-        "overgrow",
-        "chlorophyll"
-      ],
-      "moves": [
-
-      ],
-      "stats": [
-        {
-          "value": 80,
-          "name": "special-defense"
-        },
-        {
-          "value": 80,
-          "name": "special-attack"
-        },
-        {
-          "value": 63,
-          "name": "defense"
-        },
-        {
-          "value": 62,
-          "name": "attack"
-        },
-        {
-          "value": 60,
-          "name": "speed"
-        },
-        {
-          "value": 60,
-          "name": "hp"
-        }
-      ],
-      "types": [
-        "grass",
-        "poison"
-      ],
-      "sprites": {
-        "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
-        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/2.png"
-      }
-    },
-    {
-      "height": 20,
-      "weight": 1000,
-      "id": 3,
-      "name": "venusaur",
-      "abilities": [
-        "overgrow",
-        "chlorophyll"
-      ],
-      "moves": [
-
-      ],
-      "stats": [
-        {
-          "value": 100,
-          "name": "special-defense"
-        },
-        {
-          "value": 100,
-          "name": "special-attack"
-        },
-        {
-          "value": 83,
-          "name": "defense"
-        },
-        {
-          "value": 82,
-          "name": "attack"
-        },
-        {
-          "value": 80,
-          "name": "speed"
-        },
-        {
-          "value": 80,
-          "name": "hp"
-        }
-      ],
-      "types": [
-        "grass",
-        "poison"
-      ],
-      "sprites": {
-        "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
-        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/3.png"
-      }
-    },
-    {
-      "height": 6,
-      "weight": 85,
-      "id": 5,
-      "name": "charmander",
-      "abilities": [
-        "blaze",
-        "solar-power"
-      ],
-      "moves": [
-        "mega-punch",
-        "scratch",
-        "mega-kick",
-        "ember",
-        "submission",
-        "counter",
-        "seismic-toss",
-        "dragon-rage",
-        "fire-spin",
-        "rage"
-      ],
-      "stats": [
-        {
-          "value": 65,
-          "name": "speed"
-        },
-        {
-          "value": 60,
-          "name": "special-attack"
-        },
-        {
-          "value": 52,
-          "name": "attack"
-        },
-        {
-          "value": 50,
-          "name": "special-defense"
-        },
-        {
-          "value": 43,
-          "name": "defense"
-        },
-        {
-          "value": 39,
-          "name": "hp"
-        }
-      ],
-      "types": [
-        "fire"
-      ],
-      "sprites": {
-        "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
-        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/4.png"
-      }
-    },
-    {
       "height": 11,
       "weight": 190,
       "id": 6,
@@ -158,9 +9,7 @@
         "blaze",
         "solar-power"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 80,
@@ -193,62 +42,6 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/5.png"
-      }
-    },
-    {
-      "height": 17,
-      "weight": 905,
-      "id": 7,
-      "name": "charizard",
-      "abilities": [
-        "blaze",
-        "solar-power"
-      ],
-      "moves": [
-        "mega-punch",
-        "scratch",
-        "mega-kick",
-        "ember",
-        "submission",
-        "counter",
-        "seismic-toss",
-        "dragon-rage",
-        "fire-spin",
-        "fissure"
-      ],
-      "stats": [
-        {
-          "value": 109,
-          "name": "special-attack"
-        },
-        {
-          "value": 100,
-          "name": "speed"
-        },
-        {
-          "value": 85,
-          "name": "special-defense"
-        },
-        {
-          "value": 84,
-          "name": "attack"
-        },
-        {
-          "value": 78,
-          "name": "defense"
-        },
-        {
-          "value": 78,
-          "name": "hp"
-        }
-      ],
-      "types": [
-        "fire",
-        "flying"
-      ],
-      "sprites": {
-        "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
-        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/6.png"
       }
     },
     {
@@ -315,9 +108,7 @@
         "torrent",
         "rain-dish"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 80,
@@ -361,9 +152,7 @@
         "torrent",
         "rain-dish"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 105,
@@ -407,9 +196,7 @@
         "shield-dust",
         "run-away"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 45,
@@ -452,9 +239,7 @@
       "abilities": [
         "shed-skin"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 55,
@@ -498,9 +283,7 @@
         "compound-eyes",
         "tinted-lens"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 90,
@@ -545,9 +328,7 @@
         "shield-dust",
         "run-away"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 50,
@@ -591,9 +372,7 @@
       "abilities": [
         "shed-skin"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 50,
@@ -638,9 +417,7 @@
         "swarm",
         "sniper"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 90,
@@ -686,9 +463,7 @@
         "tangled-feet",
         "big-pecks"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 56,
@@ -734,9 +509,7 @@
         "tangled-feet",
         "big-pecks"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 71,
@@ -782,9 +555,7 @@
         "tangled-feet",
         "big-pecks"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 101,
@@ -830,9 +601,7 @@
         "guts",
         "hustle"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 72,
@@ -929,9 +698,7 @@
         "keen-eye",
         "sniper"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 70,
@@ -976,9 +743,7 @@
         "keen-eye",
         "sniper"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 100,
@@ -1024,9 +789,7 @@
         "shed-skin",
         "unnerve"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 60,
@@ -1125,9 +888,7 @@
         "static",
         "lightning-rod"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 90,
@@ -1171,9 +932,7 @@
         "static",
         "lightning-rod"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 110,
@@ -1272,9 +1031,7 @@
         "sand-veil",
         "sand-rush"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 110,
@@ -1372,9 +1129,7 @@
         "rivalry",
         "hustle"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 70,
@@ -1476,9 +1231,7 @@
         "rivalry",
         "hustle"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 57,
@@ -1523,9 +1276,7 @@
         "rivalry",
         "hustle"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 72,
@@ -1738,9 +1489,7 @@
         "flash-fire",
         "drought"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 65,
@@ -1784,9 +1533,7 @@
         "flash-fire",
         "drought"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 100,
@@ -1944,9 +1691,7 @@
         "inner-focus",
         "infiltrator"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 55,
@@ -2047,9 +1792,7 @@
         "chlorophyll",
         "run-away"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 75,
@@ -2094,9 +1837,7 @@
         "chlorophyll",
         "stench"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 85,
@@ -2141,9 +1882,7 @@
         "chlorophyll",
         "effect-spore"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 110,
@@ -2189,9 +1928,7 @@
         "dry-skin",
         "damp"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 70,
@@ -2237,9 +1974,7 @@
         "dry-skin",
         "damp"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 95,
@@ -2285,9 +2020,7 @@
         "tinted-lens",
         "run-away"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 60,
@@ -2333,9 +2066,7 @@
         "tinted-lens",
         "wonder-skin"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 90,
@@ -2381,9 +2112,7 @@
         "arena-trap",
         "sand-force"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 95,
@@ -2428,9 +2157,7 @@
         "arena-trap",
         "sand-force"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 120,
@@ -2583,9 +2310,7 @@
         "cloud-nine",
         "swift-swim"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 65,
@@ -2742,9 +2467,7 @@
         "anger-point",
         "defiant"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 105,
@@ -2789,9 +2512,7 @@
         "flash-fire",
         "justified"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 70,
@@ -2836,9 +2557,7 @@
         "flash-fire",
         "justified"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 110,
@@ -2883,9 +2602,7 @@
         "damp",
         "swift-swim"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 90,
@@ -2930,9 +2647,7 @@
         "damp",
         "swift-swim"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 90,
@@ -3034,9 +2749,7 @@
         "inner-focus",
         "magic-guard"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 105,
@@ -3081,9 +2794,7 @@
         "inner-focus",
         "magic-guard"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 120,
@@ -3128,9 +2839,7 @@
         "inner-focus",
         "magic-guard"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 135,
@@ -3398,9 +3107,7 @@
         "chlorophyll",
         "gluttony"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 90,
@@ -3445,9 +3152,7 @@
         "chlorophyll",
         "gluttony"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 105,
@@ -3493,9 +3198,7 @@
         "liquid-ooze",
         "rain-dish"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 100,
@@ -3541,9 +3244,7 @@
         "liquid-ooze",
         "rain-dish"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 120,
@@ -3589,9 +3290,7 @@
         "sturdy",
         "sand-veil"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 100,
@@ -3637,9 +3336,7 @@
         "sturdy",
         "sand-veil"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 115,
@@ -3685,9 +3382,7 @@
         "sturdy",
         "sand-veil"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 130,
@@ -3733,9 +3428,7 @@
         "flash-fire",
         "flame-body"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 90,
@@ -3780,9 +3473,7 @@
         "flash-fire",
         "flame-body"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 105,
@@ -3827,9 +3518,7 @@
         "own-tempo",
         "regenerator"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 90,
@@ -3932,9 +3621,7 @@
         "sturdy",
         "analytic"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 95,
@@ -3980,9 +3667,7 @@
         "sturdy",
         "analytic"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 120,
@@ -4084,9 +3769,7 @@
         "early-bird",
         "tangled-feet"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 85,
@@ -4132,9 +3815,7 @@
         "early-bird",
         "tangled-feet"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 110,
@@ -4180,9 +3861,7 @@
         "hydration",
         "ice-body"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 70,
@@ -4227,9 +3906,7 @@
         "hydration",
         "ice-body"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 95,
@@ -4275,9 +3952,7 @@
         "sticky-hold",
         "poison-touch"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 80,
@@ -4378,9 +4053,7 @@
         "skill-link",
         "overcoat"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 100,
@@ -4425,9 +4098,7 @@
         "skill-link",
         "overcoat"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 180,
@@ -4471,9 +4142,7 @@
       "abilities": [
         "levitate"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 100,
@@ -4798,9 +4467,7 @@
         "shell-armor",
         "sheer-force"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 105,
@@ -4845,9 +4512,7 @@
         "shell-armor",
         "sheer-force"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 130,
@@ -4892,9 +4557,7 @@
         "static",
         "aftermath"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 100,
@@ -4939,9 +4602,7 @@
         "static",
         "aftermath"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 140,
@@ -5041,9 +4702,7 @@
         "chlorophyll",
         "harvest"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 125,
@@ -5201,9 +4860,7 @@
         "reckless",
         "unburden"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 120,
@@ -5248,9 +4905,7 @@
         "iron-fist",
         "inner-focus"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 110,
@@ -5401,9 +5056,7 @@
       "abilities": [
         "levitate"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 120,
@@ -5728,9 +5381,7 @@
         "sniper",
         "damp"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 70,
@@ -5775,9 +5426,7 @@
         "sniper",
         "damp"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 95,
@@ -5822,9 +5471,7 @@
         "water-veil",
         "lightning-rod"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 67,
@@ -5869,9 +5516,7 @@
         "water-veil",
         "lightning-rod"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 92,
@@ -5916,9 +5561,7 @@
         "natural-cure",
         "analytic"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 85,
@@ -5963,9 +5606,7 @@
         "natural-cure",
         "analytic"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 115,
@@ -6068,9 +5709,7 @@
         "technician",
         "steadfast"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 110,
@@ -6172,9 +5811,7 @@
         "static",
         "vital-spirit"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 105,
@@ -6329,9 +5966,7 @@
         "anger-point",
         "sheer-force"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 110,
@@ -6375,9 +6010,7 @@
         "swift-swim",
         "rattled"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 80,
@@ -6530,9 +6163,7 @@
         "limber",
         "imposter"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 48,
@@ -6577,9 +6208,7 @@
         "adaptability",
         "anticipation"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 65,
@@ -6623,9 +6252,7 @@
         "water-absorb",
         "hydration"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 130,
@@ -6669,9 +6296,7 @@
         "volt-absorb",
         "quick-feet"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 130,
@@ -6766,9 +6391,7 @@
         "download",
         "analytic"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 85,
@@ -6867,9 +6490,7 @@
         "shell-armor",
         "weak-armor"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 125,
@@ -6915,9 +6536,7 @@
         "battle-armor",
         "weak-armor"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 90,
@@ -6963,9 +6582,7 @@
         "battle-armor",
         "weak-armor"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 115,
@@ -7122,9 +6739,7 @@
         "pressure",
         "snow-cloak"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 125,
@@ -7169,9 +6784,7 @@
         "pressure",
         "static"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 125,
@@ -7216,9 +6829,7 @@
         "pressure",
         "flame-body"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 125,
@@ -7263,9 +6874,7 @@
         "shed-skin",
         "marvel-scale"
       ],
-      "moves": [
-
-      ],
+      "moves": [],
       "stats": [
         {
           "value": 64,
